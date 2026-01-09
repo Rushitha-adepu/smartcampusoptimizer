@@ -1,0 +1,7 @@
+{
+  "name": "CMRIT Smart Campus Optimizer",
+  "description": "An AI-powered service optimization platform for CMRIT campus, featuring demand forecasting, crowd prediction, and real-time resource management for canteens, libraries, and administrative offices.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
